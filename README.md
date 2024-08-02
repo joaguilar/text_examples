@@ -8,6 +8,9 @@
 
 ```
 python -m venv .venv
+```
+ó
+```
 conda create --prefix ./.venv python=3.11
 ```
 
@@ -15,6 +18,9 @@ conda create --prefix ./.venv python=3.11
 
 ```
 source .venv/bin/activate
+```
+ó
+```
 conda activate ./.venv
 ```
 
