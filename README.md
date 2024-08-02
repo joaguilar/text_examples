@@ -22,7 +22,7 @@ conda activate ./.venv
 
 ```
 pip install pandas matplotlib wordcloud nltk jupyter ipykernel PyPDF2 unidecode contractions spacy 
-pip install textblob transformers ace_tools scikit-learn sentence-transformers openai
+pip install textblob transformers ace_tools scikit-learn sentence-transformers openai python-dotenv
 ```
 Nota: Puede ser necesario crear un nuevo ipkernel para que utilice el ambiente, se hace con la instrucción:
 
